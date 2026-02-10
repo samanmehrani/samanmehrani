@@ -6,7 +6,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="50%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
@@ -22,15 +22,22 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <br /> 
 
@@ -54,9 +61,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=samanmehrani&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="samanmehrani" style="padding-right:20px;" />
 </p>
-
----
-
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
@@ -106,41 +110,35 @@
 
 <!--Github stats Table--> 
 <h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 24px;">
+  <a href="https://github.com/samanmehrani">
+    <img 
+      src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+      alt="GitHub Stats"
+    />
+  </a>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/samanmehrani">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/samanmehrani">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/samanmehrani">
+    <img 
+      src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A" 
+      alt="Streak Stats"
+    />
+  </a>
+</div>
 <br />
 
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=ffffff&area=false&" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=ffffff&area=false" border-radius="15">
 </div>
-
----
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0F172A&author_color=22C55E&accent_color=16A34A&text_color=FFFFFF">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0B0F14&author_color=22C55E&accent_color=16A34A&text_color=FFFFFF">
 </p>
 
 <!--Contact Section--> 
