@@ -1,0 +1,152 @@
+<!--Banner-->
+![samanmehrani Banner Image](./banner.png)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ samᴀn! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left"> I’m a <strong>Full-Stack Web Developer</strong> and <strong>Machine Learning Enthusiast</strong> with a strong foundation in statistics and a deep interest in building scalable, data-driven applications. I enjoy working across the stack—from crafting clean, responsive user interfaces to designing robust back-end systems and experimenting with machine learning models. I’m especially passionate about using <strong>Python</strong> for data analysis and ML, and <strong>React.js / Node.js</strong> for modern web development. </p>
+
+✨ Student of life — curious by nature and always asking why and how
+
+🎓 Statistics undergraduate student, with a growing focus on data analysis and machine learning
+
+🌱 Always learning — from web performance and system design to ML algorithms and real-world applications
+
+🐍 Python lover — using it for statistics, data analysis, and ML experiments
+
+⚛️ Frontend & Backend experience with React, Next.js, Node.js, RESTful APIs, Git, and Docker
+
+❤️ Open-source supporter — I enjoy learning from and contributing to community-driven projects
+
+💻 Portfolio: samanmehrani.ir
+ — projects, skills, and more about my journey
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samanmehrani&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="samanmehrani" style="padding-right:20px;" />
+</p>
+
+---
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>
+    📊 Strengthening my foundations in <strong>Machine Learning</strong> and <strong>Artificial Intelligence</strong>,
+    with a focus on statistical learning, model evaluation, and practical implementations in Python.
+  </li>
+  <li>
+    ⚛️ Exploring <strong>advanced React.js and Next.js patterns</strong>, including performance optimization,
+    modern state management, and scalable frontend architecture.
+  </li>
+  <li>
+    🧠 Expanding my knowledge of <strong>data analysis and applied statistics</strong> to bridge theory with
+    real-world ML problems.
+  </li>
+  <li>
+    ☁️ Learning the fundamentals of <strong>cloud computing</strong> and deployment workflows,
+    including containerization with Docker and an introduction to AWS-based services.
+  </li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/samanmehrani">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/samanmehrani">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/samanmehrani">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Life%20is%20not%20meant%20to%20be%20easy%20my%20child%2C%20but%20take%20courage%3A%20it%20can%20be%20delightful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:samanmehranee@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/samanmehrani" target="_blank">
+<img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.github.com/samanmehrani" target="_blank">
+<img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
