@@ -1,5 +1,5 @@
-<!--Banner-->
-![samanmehrani Banner Image](./banner.png)
+<!-- Top Image -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Night Owl image-->
 <div>
@@ -20,6 +20,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+<br />
+<br />
+<br />
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ samᴀn! 
@@ -142,21 +145,24 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+    Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h2>
+
 <div align="center">
-  
-<a href="mailto:samanmehranee@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:samanmehranee@gmail.com" target="_blank">
+    <img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://x.com/samanmehrani" target="_blank">
-<img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://x.com/samanmehrani" target="_blank">
+    <img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://www.github.com/samanmehrani" target="_blank">
-<img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
-</a>
-
+  <a href="https://www.github.com/samanmehrani" target="_blank">
+    <img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
+  </a>
 </div>
 <br/>
 
