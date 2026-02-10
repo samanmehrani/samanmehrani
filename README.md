@@ -23,9 +23,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-<br />
-<br />
-<br />
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ samᴀn! 
@@ -93,7 +90,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 
 <table width="100%">
   <tr>
@@ -108,7 +105,6 @@
         </a>
       </p>
     </td>
-
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
@@ -126,7 +122,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=16A34A&area=false&hide_border=false"
@@ -136,7 +132,7 @@
 ---
 
 <!--Dynamic Quote card--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ</h2>
 
 <p align="center">
   <img
@@ -150,19 +146,18 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
   Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 </h2>
 
 <div align="center">
-  <a href="mailto:samanmehranee@gmail.com" target="_blank">
+  <a href="mailto:samanmehranee@gmail.com" target="_blank" style="margin: 0 12px;">
     <img src="./gmail.png" width="50" height="50" alt="Email" />
   </a>
 
-  <a href="https://x.com/samanmehrani" target="_blank">
+  <a href="https://x.com/samanmehrani" target="_blank" style="margin: 0 12px;">
     <img src="./x.png" width="50" height="50" alt="X" />
   </a>
 
-  <a href="https://www.github.com/samanmehrani" target="_blank">
+  <a href="https://www.github.com/samanmehrani" target="_blank" style="margin: 0 12px;">
     <img src="./github.png" width="50" height="50" alt="GitHub" />
   </a>
 </div>
