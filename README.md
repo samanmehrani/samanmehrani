@@ -108,23 +108,35 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
-<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 24px;">
-  <a href="https://github.com/samanmehrani">
-    <img 
-      src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
-      alt="GitHub Stats"
-    />
-  </a>
+---
 
-  <a href="https://github.com/samanmehrani">
-    <img 
-      src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A" 
-      alt="Streak Stats"
-    />
-  </a>
-</div>
+<!--Github stats Table--> 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/samanmehrani">
+          <img 
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+            alt="GitHub Stats"
+          />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/samanmehrani">
+          <img 
+            src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A" 
+            alt="Streak Stats"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 <br />
 
 <!--Contribution Graph-->
