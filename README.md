@@ -6,7 +6,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="50%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
@@ -150,14 +150,6 @@
 <div align="center">
   <a href="mailto:samanmehranee@gmail.com" target="_blank">
     <img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin: 25px;" />
-  </a>
-
-  <a href="https://x.com/samanmehrani" target="_blank">
-    <img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin: 25px;" />
-  </a>
-
-  <a href="https://www.github.com/samanmehrani" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin: 25px;" />
   </a>
 </div>
 <br/>
