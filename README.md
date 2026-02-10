@@ -92,19 +92,6 @@
 <br />
 <br />
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/samanmehrani">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -114,63 +101,69 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/samanmehrani">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+            alt="GitHub Stats"
+          />
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/samanmehrani">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img
+            src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A"
+            alt="Streak Stats"
+          />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=16A34A&area=false&hide_border=false"
+  />
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
+<!--Dynamic Quote card--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Life%20is%20not%20meant%20to%20be%20easy%20my%20child%2C%20but%20take%20courage%3A%20it%20can%20be%20delightful.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img
+    src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0F172A&author_color=22C55E&accent_color=16A34A&text_color=FFFFFF"
+  />
 </p>
 
-<!--Contact Section--> 
+---
 
+<!--Contact Section--> 
 <h2 align="center">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-    Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+  Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 </h2>
 
 <div align="center">
   <a href="mailto:samanmehranee@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin-bottom: 5px;" />
+    <img src="./gmail.png" width="50" height="50" alt="Email" />
   </a>
 
   <a href="https://x.com/samanmehrani" target="_blank">
-    <img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
+    <img src="./x.png" width="50" height="50" alt="X" />
   </a>
 
   <a href="https://www.github.com/samanmehrani" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin-bottom: 5px;" />
+    <img src="./github.png" width="50" height="50" alt="GitHub" />
   </a>
 </div>
 <br/>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-
