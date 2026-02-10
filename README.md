@@ -6,8 +6,17 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="50%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ samᴀn! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left"> I’m a <strong>Full-Stack Web Developer</strong> and <strong>Machine Learning Enthusiast</strong> with a strong foundation in statistics and a deep interest in building scalable, data-driven applications. I enjoy working across the stack—from crafting clean, responsive user interfaces to designing robust back-end systems and experimenting with machine learning models. I’m especially passionate about using <strong>Python</strong> for data analysis and ML, and <strong>React.js / Node.js</strong> for modern web development. </p>
+<br /> 
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -23,14 +32,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ samᴀn! 
-*Digital Craftsman (Developer / Programmer)*
 <br /> 
-
-<!--Start Intro-->               
-<p align="left"> I’m a <strong>Full-Stack Web Developer</strong> and <strong>Machine Learning Enthusiast</strong> with a strong foundation in statistics and a deep interest in building scalable, data-driven applications. I enjoy working across the stack—from crafting clean, responsive user interfaces to designing robust back-end systems and experimenting with machine learning models. I’m especially passionate about using <strong>Python</strong> for data analysis and ML, and <strong>React.js / Node.js</strong> for modern web development. </p>
 
 ✨ Student of life — curious by nature and always asking why and how
 
@@ -108,7 +110,6 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/samanmehrani">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -116,7 +117,6 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/samanmehrani">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A" alt="Streak Stats" />
@@ -130,7 +130,7 @@
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=16A34A&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=ffffff&area=false&" border-radius="15">
 </div>
 
 ---
@@ -151,15 +151,15 @@
 
 <div align="center">
   <a href="mailto:samanmehranee@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin-inline: 25px;" />
+    <img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin: 25px;" />
   </a>
 
   <a href="https://x.com/samanmehrani" target="_blank">
-    <img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin-inline: 25px;" />
+    <img src="./x.png" width=50 height=50 alt="samanmehrani" style="margin: 25px;" />
   </a>
 
   <a href="https://www.github.com/samanmehrani" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin-inline: 25px;" />
+    <img src="./github.png" width=50 height=50 alt="samanmehrani" style="margin: 25px;" />
   </a>
 </div>
 <br/>
