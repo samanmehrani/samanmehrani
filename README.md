@@ -96,50 +96,6 @@
 <br />
 <br />
 
-<!--Trophies Section-->   
-<h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
-<p align="center">
-  <a href="https://github.com/samanmehrani">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=samanmehrani&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
----
-
-<!--Github stats Table--> 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/samanmehrani">
-          <img 
-            src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=samanmehrani&count_private=true&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=22C55E&text_color=FFFFFF&icon_color=22C55E&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
-            alt="GitHub Stats"
-          />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/samanmehrani">
-          <img 
-            src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=samanmehrani&theme=transparent&background=0B0F14&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=CBD5E1&sideLabels=CBD5E1&dates=16A34A" 
-            alt="Streak Stats"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
