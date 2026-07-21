@@ -1,9 +1,6 @@
 <!--Banner-->
 <!-- ![samanmehrani Banner Image](./banner.png) -->
 
-<!-- Top Image -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -13,6 +10,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ꜱᴀᴍᴀɴ!
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+Developer;TypeScript+Enthusiast;Open+Source+Contributor">
 
 <!--Start Intro-->               
 <p align="left"> I’m a <strong>Full-Stack Web Developer</strong> and <strong>Machine Learning Enthusiast</strong> with a strong foundation in statistics and a deep interest in building scalable, data-driven applications. I enjoy working across the stack—from crafting clean, responsive user interfaces to designing robust back-end systems and experimenting with machine learning models. I’m especially passionate about using <strong>Python</strong> for data analysis and ML, and <strong>React.js / Node.js</strong> for modern web development. </p>
@@ -59,8 +58,9 @@
 <br />
 
 <!--Profile Count Badge-->
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samanmehrani&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="samanmehrani" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=samanmehrani&label=Profile%20views&style=for-the-badge" alt="samanmehrani" style="padding-right:20px;" />
 </p>
 
 <!--Languages and Tools Section-->       
@@ -68,7 +68,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" style="margin-bottom: 25px" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img 
+    align="left"
+    style="margin-bottom: 25px; margin-right: 25px"
+    alt="GIF description" 
+    src="./Skills_Animation_White.gif"
+  >
 </picture>
 <br />
 
@@ -96,10 +101,23 @@
 <br />
 <br />
 
+<div 
+  align="center"
+  style="display: grid; justify-content: center; align-items: center; gap: 48px;"
+>
+  <img
+    src="https://skillicons.dev/icons?i=html,nextjs,threejs,react,electron,vercel,ts,tailwind,nodejs,postman,powershell,windows,prisma,postgres,docker,mongo,git,vscode&perline=9" 
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=samanmehrani&theme=github-dark&hide_border=true"
+    alt="GitHub Streak" 
+  />
+</div>
+
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=0B0F14&color=CBD5E1&line=22C55E&point=ffffff&area=false" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=transparent&color=CBD5E1&line=22C55E&point=ffffff&area=false&hide_border=true">
 </div>
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
@@ -107,18 +125,43 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0B0F14&author_color=22C55E&accent_color=16A34A&text_color=FFFFFF">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=transparent&author_color=22C55E&accent_color=16A34A&text_color=FFFFFF">
 </p>
 
-<!--Contact Section--> 
-
+<!--Contact Section-->
 <h2 align="center">
     Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
 </h2>
 
-<div align="center">
+<div
+  align="center"
+  style="display: flex; justify-content: center; align-items: center; gap: 24px;"
+>
   <a href="mailto:samanmehranee@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="samanmehranee@gmail.com" style="margin: 25px;" />
+    <img 
+      src="./gmail.svg" 
+      width="50"
+      height="50"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://t.me/Aristocrasio" target="_blank">
+    <img
+      src="./telegram.png"
+      width="45"
+      height="45"
+      alt="Telegram"
+    />
+  </a>
+
+  <a href="https://instagram.com/samanmehraani">
+    <img
+      src="./instagram.png"
+      width="50"
+      height="50"
+      alt="Instagram"
+    />
   </a>
 </div>
 <br/>
