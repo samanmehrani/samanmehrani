@@ -64,7 +64,7 @@
 </p>
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -101,14 +101,10 @@
 <br />
 <br />
 
-<div 
-  align="center"
-  style="display: grid; justify-content: center; align-items: center; gap: 48px;"
->
+<div align="center">
   <img
     src="https://skillicons.dev/icons?i=html,nextjs,threejs,react,electron,vercel,ts,tailwind,nodejs,postman,powershell,windows,prisma,postgres,docker,mongo,git,vscode&perline=9" 
   />
-
 </div>
 
 <!--Contribution Graph-->
@@ -121,7 +117,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=transparent&author_color=22C55E&accent_color=16A34A&text_color=FFFFFF">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0D1117&author_color=3FB950&accent_color=238636&text_color=E6EDF3">
 </p>
 
 <!--Contact Section-->
@@ -131,13 +127,14 @@
 
 <div
   align="center"
-  style="display: flex; justify-content: center; align-items: center; gap: 24px;"
+  style="display: flex; justify-content: center; align-items: center"
 >
   <a href="mailto:samanmehranee@gmail.com" target="_blank">
     <img 
       src="./gmail.svg" 
       width="50"
       height="50"
+      style="margin: 24px"
       alt="Gmail"
     />
   </a>
@@ -147,15 +144,17 @@
       src="./telegram.png"
       width="45"
       height="45"
+      style="margin: 24px"
       alt="Telegram"
     />
   </a>
 
-  <a href="https://instagram.com/samanmehraani">
+  <a href="https://instagram.com/samanmehraani" target="_blank">
     <img
       src="./instagram.png"
       width="50"
       height="50"
+      style="margin: 24px"
       alt="Instagram"
     />
   </a>
