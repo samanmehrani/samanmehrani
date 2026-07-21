@@ -9,13 +9,13 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ꜱᴀᴍᴀɴ!
 *Digital Craftsman (Developer / Programmer)*
-<br /> 
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+Developer;TypeScript+Enthusiast;Open+Source+Contributor">
+<br />
 
 <!--Start Intro-->               
 <p align="left"> I’m a <strong>Full-Stack Web Developer</strong> and <strong>Machine Learning Enthusiast</strong> with a strong foundation in statistics and a deep interest in building scalable, data-driven applications. I enjoy working across the stack—from crafting clean, responsive user interfaces to designing robust back-end systems and experimenting with machine learning models. I’m especially passionate about using <strong>Python</strong> for data analysis and ML, and <strong>React.js / Node.js</strong> for modern web development. </p>
-<br /> 
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+Developer;TypeScript+Enthusiast;Open+Source+Contributor">
 
 <h3>When I code, I rely on</h3>
 <p>
