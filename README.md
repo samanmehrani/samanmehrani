@@ -109,10 +109,6 @@
     src="https://skillicons.dev/icons?i=html,nextjs,threejs,react,electron,vercel,ts,tailwind,nodejs,postman,powershell,windows,prisma,postgres,docker,mongo,git,vscode&perline=9" 
   />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=samanmehrani&theme=github-dark&hide_border=true"
-    alt="GitHub Streak" 
-  />
 </div>
 
 <!--Contribution Graph-->
