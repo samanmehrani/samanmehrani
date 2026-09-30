@@ -107,11 +107,6 @@
   />
 </div>
 
-<!--Contribution Graph-->
-<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanmehrani&bg_color=transparent&color=CBD5E1&line=22C55E&point=ffffff&area=false&hide_border=true">
-</div>
-
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ</h2>
 
